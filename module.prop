@@ -1,9 +1,8 @@
 id=EmojiReplace
 name=替换 Emoji 为 Nougat 版
-version=v2
-versionCode=2
+version=v3
+versionCode=3
 author=Ezalor
 description=将 emoji 替换为最新的 Nougat 版本。
 support=
 donate=
-cacheModule=false
