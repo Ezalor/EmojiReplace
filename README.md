@@ -2,7 +2,11 @@
 将 emoji 替换为最新的 Android 原生版本。
 
 ## 更新日志
+v3.1
+
+    - 更新到 Android O DP4
 v3-2
+
     - 更新到 Android O DP3
     - 同步更新（Template v3）
 
